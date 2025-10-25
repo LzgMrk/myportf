@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mark Christian Lazaga | Virtual Assistant | E-commerce Specialist</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#timeline">Work Timeline</a></li>
+                <li><a href="#skills">Skills Set</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#hire">Hire Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="hero-content">
+            <div class="hero-photo">
+                <img src="assets/Empoy.png" alt="Mark Christian Lazaga" />
+            </div>
+            <div class="hero-text">
+                <h1>Mark Christian Lazaga</h1>
+                <h2>Virtual Assistant | E-commerce Specialist</h2>
+                <p>
+                    Hey there! I’m Mark, a Virtual Assistant and E-Commerce Specialist who helps businesses manage and grow their online stores.
+                    I’ve worked with Shopify, eBay, and Amazon, handling product research, listings, and order processing to keep operations running smoothly.
+                </p>
+                <div class="moving-text">
+                    💼 E-Commerce Specialist Since 2022 • 📦 Shopify | eBay | Amazon • 🛒 Product Monitoring, Order Fulfillment • 🔎 Product Research & Listing • ⚡ Fast & Reliable Support
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="timeline">
+        <h2>Work Timeline</h2>
+        <div class="timeline-container">
+            <div class="job">
+                <h3>E-commerce Specialist | Oregon, United States (09/2023 – 09/2024)</h3>
+                <p>Virtual Assistant, Admin Support, and E-Commerce Specialist with experience in managing eBay, Amazon, and Shopify stores. Skilled in dropshipping, product research, SEO, order fulfillment, and customer support.</p>
+            </div>
+            <div class="job">
+                <h3>Customer Support Representative | Elite Source (02/2022 – 06/2023)</h3>
+                <p>Sent email reminders, assisted clients with follow-ups, and helped maintain customer satisfaction by providing accurate communication.</p>
+            </div>
+            <div class="job">
+                <h3>Non-Voice Call Center Agent | TIHM / Outsmart (09/2021 – 01/2022)</h3>
+                <p>Handled inbound calls using a non-voice system, generated automated responses, and supported fundraising efforts.</p>
+            </div>
+            <div class="job">
+                <h3>Merchandise Coordinator | BZMARK Promo Specialist Inc. (10/2019 – 04/2020)</h3>
+                <p>Organized and displayed products, monitored inventory, and supported promotional activities to boost sales.</p>
+            </div>
+            <div class="job">
+                <h3>Logistics Assistant | International Wirings System (02/2019 – 08/2019)</h3>
+                <p>Checked deliveries, inspected goods, maintained records, and coordinated logistics for smooth workflow.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills Set</h2>
+        <div class="skills-grid">
+            <span>E-commerce Store Management</span>
+            <span>Shopify | eBay | Amazon</span>
+            <span>Cross-Listing (List Perfectly, Prime Lister)</span>
+            <span>Order Fulfillment</span>
+            <span>Product Research & Optimization</span>
+            <span>Email Management</span>
+            <span>Microsoft Office & Google Sheets</span>
+            <span>AI Tools (ChatGPT, Gemini)</span>
+            <span>Customer Service</span>
+            <span>Time Management</span>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="slideshow">
+            <img src="assets/project1.jpg" alt="Project 1">
+            <img src="assets/project2.jpg" alt="Project 2">
+            <img src="assets/project3.jpg" alt="Project 3">
+        </div>
+    </section>
+
+    <section id="hire">
+        <h2>Hire Me</h2>
+        <p>
+            Interested in working together? You can reach me at:
+            <br><strong>Email:</strong> lazagamark1@gmail.com
+            <br><strong>Phone:</strong> 0908-261-5955
+        </p>
+        <a href="assets/Mark_Christian Lazaga_CV.pdf" class="resume-btn" download>Download My Resume</a>
+    </section>
+
+    <footer>
+        <p>© 2025 Mark Christian Lazaga. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
